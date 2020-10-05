@@ -1,0 +1,10 @@
+cs.vu.nl, "CASE STUDY 1: UNIX AND LINUX, "https://www.cs.vu.nl/~ast/books/mos2/sample-10.pdf Last visited 5/10/20
+cs.wisc.edu, "Mechanism: Limited Direct Execution", http://pages.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf Last visited 5/10/20
+web.ist.utl.pt, "Modern Operating Systems", Andrew S. Tanenbaum, http://web.ist.utl.pt/~fabio.ferreira/material/so/Modern%20Operating%20Systems%202nd%20Ed%20by%20Tanenbaum%20(with%20pdf%20index).pdf Last visited 5/10/20
+geeksforgeeks.org, “pipe() System call”, Kadam Patel, https://www.geeksforgeeks.org/pipe-system-call/ Last visited 30/9/20
+Linux.die.net, “pipe(2) - Linux man page”, https://linux.die.net/man/2/pipe Last visited 30/9/20
+Linux.die.net, “fork(2) - Linux man page”, https://linux.die.net/man/2/fork Last visited 30/9/20
+Linux.die.net, “exec(3) - Linux man page”, https://linux.die.net/man/3/exec Last visited 30/9/20
+Linux.die.net, “dup2(2) - Linux man page”, https://linux.die.net/man/2/dup2 Last visited 30/9/20
+rupinderjeetkaur.wordpress.com, "Run a C/C++ program on terminal using gcc compiler", https://rupinderjeetkaur.wordpress.com/2014/06/20/run-a-cc-program-on-terminal-using-gcc-compiler/ Last visited 5/10/20
+stackoverflow.com, “How to create a linux pipeline example in c”, https://stackoverflow.com/questions/21923982/how-to-create-a-linux-pipeline-example-in-c Last visited 30/9/20
